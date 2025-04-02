@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Gnaneswararao Polaki
 
+![Wave](https://raw.githubusercontent.com/GNANESWARARAO-POLAKI/GNANESWARARAO-POLAKI/main/wave.gif) Hi, I'm Gnaneswararao Polaki!
+
 ## 👨‍💻 About Me
 - 🎓 Pursuing **B.Tech in CSE (AI & DS)** at **GMR Institute of Technology** (CGPA: 8.52)
 - 💻 Web Developer passionate about **Django, FastAPI, and React**
@@ -8,11 +10,14 @@
 - 📞 Contact: **+91 9063003290**
 
 ## 🚀 Skills
-- **Programming Languages**: Python, C, Java, JavaScript, HTML, CSS, PHP
-- **Frameworks & Tools**: Django, FastAPI, Flask (Basics), React
-- **Database**: SQL (Intermediate)
-- **Version Control**: Git, GitHub
-- **Data Analysis**: Power BI (Internship Experience)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🏆 Achievements
 - **CodeChef 2-Star Coder** (Max Rating: **1429**)
@@ -27,14 +32,17 @@
 - **AI Leaf Disease Detection**: AI-powered disease identification for plants with an AI chatbot.
 - **Assured Contract Farming Platform**: Online marketplace for transparent farming agreements.
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GNANESWARARAO-POLAKI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNANESWARARAO-POLAKI&layout=compact&theme=radical)
+
 ## 🎯 Certifications
 - **Basic & Intermediate SQL** (HackerRank)
 - **Data Analytics Basics for Everyone** (edX)
 - **Build a Movie Recommender with Django** (edX)
 
 ## 🤝 Connect With Me
-- **LinkedIn**: [Gnaneswararao Polaki](https://www.linkedin.com/in/gnaneswararao-polaki)
-- **GitHub**: [@GNANESWARARAO-POLAKI](https://github.com/GNANESWARARAO-POLAKI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gnaneswararao-polaki)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/GNANESWARARAO-POLAKI)
 
 🚀 *Always exploring new technologies & working on innovative solutions!*
-
