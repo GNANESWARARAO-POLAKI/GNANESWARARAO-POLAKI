@@ -42,7 +42,7 @@
 - **Build a Movie Recommender with Django** (edX)
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gnaneswararao-polaki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gnaneswararao-polaki-b32113257)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/GNANESWARARAO-POLAKI)
 
 🚀 *Always exploring new technologies & working on innovative solutions!*
