@@ -3,12 +3,12 @@
 ![Wave](https://raw.githubusercontent.com/GNANESWARARAO-POLAKI/GNANESWARARAO-POLAKI/main/wave.gif) Hi, I'm Gnaneswararao Polaki!
 
 ## 👨‍💻 About Me
-- 🎓 Pursuing **B.Tech in CSE (AI & DS)** at **GMR Institute of Technology** (CGPA: 8.52)
+- 🎓 Pursuing **B.Tech in CSE (AI & DS)** at **GMR Institute of Technology** (CGPA: 8.16)
 - 💻 Web Developer passionate about **Django, FastAPI, and React**
 - 🌱 Currently learning **Web Development** & **Advanced Backend Technologies**
 - 📫 Reach me at: [polakignaneswararao@gmail.com](mailto:polakignaneswararao@gmail.com) | [22341A4544@gmrit.edu.in](mailto:22341A4544@gmrit.edu.in)
 - 📞 Contact: **+91 9063003290**
--  🌐 Portfolio: [gnaneswararao.github.io](https://gnaneswararao-polaki.github.io)
+-  🌐 Portfolio: [gnaneswararao-polaki.github.io](https://gnaneswararao-polaki.github.io)
 
 ## 🚀 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🏆 Achievements
-- **CodeChef 2-Star Coder** (Max Rating: **1429**)
+- **CodeChef 2-Star Coder** (Max Rating: **1450**)
 - **LeetCode 100 Days Badge**
 - **15+ Events Coordinated** as a **CSI Student Coordinator at GMRIT**
 - **Certified in Basic & Intermediate SQL (HackerRank), Data Analytics Basics (edX)**
@@ -48,7 +48,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GNANESWARARAO/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gnaneswararao2)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/gnaneswararao1)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gnaneswararao1/profile)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/polakignan9gu3/profile)
 
 
 🚀 *Always exploring new technologies & working on innovative solutions!*
